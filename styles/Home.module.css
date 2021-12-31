@@ -1,0 +1,13 @@
+.main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url(https://www.slon.pics/wp-content/uploads/2016/12/Flag-of-Canada-in-the-corner-on-white-background.-Isolated-contains-clipping-path-19503.jpg);
+}
+
+
+.main h1 {
+  margin-top: -50px;
+}
